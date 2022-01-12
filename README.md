@@ -4,7 +4,12 @@
 * Some technical analysis were also performed
 * For showing candlesticks, mplfinance and bokeh packages were used
 
+![s](https://github.com/Tenebris97/BTC_Price_Prediction_GB_LSTM/blob/main/Screenshots/mplfinance.png)
+
 ## GB result with a capital of $10K:
+
+![s](https://github.com/Tenebris97/BTC_Price_Prediction_GB_LSTM/blob/main/Screenshots/GradientBoosting.png)
+
 <table>
   <tr><td>Net Profit</td><td>$49654.32</td></tr>
   <tr><td>Number Winning Trades</td><td>1979</td></tr>
@@ -17,4 +22,5 @@
   <tr><td>Profit Factor</td><td>1.12</td></tr>
 </table>
 
-![MaskNet Sample:](https://github.com/Tenebris97/MaskNet/blob/main/Sample.png)
+## LSTM:
+![s](https://github.com/Tenebris97/BTC_Price_Prediction_GB_LSTM/blob/main/Screenshots/LSTM.png)
